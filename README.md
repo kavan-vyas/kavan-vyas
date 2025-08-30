@@ -27,7 +27,7 @@ I'm always working on interesting and fun mathematical projects using Python. Wh
 
 ## Connect With Me
 - 🌐 **Portfolio**: [kavanvyas.carrd.co](https://kavanvyas.carrd.co/)
-- ✉️ **Email address**: kavanvy:gmail.com
+- ✉️ **Email address**: kavanvy@gmail.com
 
 ---
 **"When you eliminate the impossible, whatever remains, however improbable, must be the truth"** - Sherlock Holmes σ
