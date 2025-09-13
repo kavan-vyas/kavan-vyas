@@ -22,7 +22,7 @@ I'm currently a student studying:
 ⚡ Fun fact: I worked on a [model](https://www.dagshub.com/Omdena/PhilippinesChapter_EarlyWarningSystemforLandslides/src/MIqbal) that predicts landslides in the Phillipines!
 
 ## Current Focus
-I'm always working on interesting and fun mathematical projects using Python. While I'm still learning and might need help from time to time, I aim to create projects that combine mathematical concepts with creative programming solutions.
+I'm always working on interesting and fun mathematical projects using Python. While I'm still learning and might need help from time to time, aiming to create projects that combine mathematical concepts with creative programming solutions.
 
 
 ## Connect With Me
